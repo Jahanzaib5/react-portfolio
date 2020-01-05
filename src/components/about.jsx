@@ -19,7 +19,11 @@ export default class About extends Component {
                       <p>
                         I am an undergraduate student at University of Central
                         Asia, majoring in Computer Science. I am quite
-                        interested in building websites and often amazed by the{" "}
+                        interested in building websites and want to pursue my career as a
+                        full-stack developer in the future (atleast, I hope so! ;){" "}
+                      </p>
+                      <p>It's been quite a time now that I have been building websites and trying to explore 
+                          the area of web-development, and I find it quite interesting.
                       </p>
                       <p>
                         I am a computer grad student from DAIICT-Gandhinagar
