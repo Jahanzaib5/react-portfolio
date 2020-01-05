@@ -170,7 +170,7 @@ figure figcaption {
 }
 #colorlib-aside #colorlib-main-menu ul {
   text-align: center;
-  margin-top: 3%;
+  margin-top: -2%;
   padding: 0;
 }
 @media screen and (max-width: 768px) {
