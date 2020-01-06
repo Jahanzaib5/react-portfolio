@@ -81,7 +81,7 @@ export default class About extends Component {
                     <h3>Other skills</h3>
                     <p>
                       I have a command over some of the languages such as; 
-                      Pyhon, c-programming, postgreSQL, PostMan, graphql .etc.
+                      Pyhon, c-programming, postgreSQL, Postman, graphql .etc.
                     </p>
                   </div>
                 </div>

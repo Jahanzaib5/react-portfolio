@@ -20,12 +20,20 @@ export default class Contact extends Component {
                 className="col-md-6 col-sm-12 animate-box"
                 data-animate-effect="fadeInLeft"
               >
-                <h2>Hello world</h2>
+                <p>Feel free to contact me as per the details below:</p>
+                <br/>
+                <a><h5><b>Email: </b> jahanzaib.kd@gmail.com</h5></a>
                 <h2>hello wrold</h2>
                 <h2>Hello world</h2>
                 <h2>Hello world</h2>
                 <h2>Hello world</h2>
                 <h2>Hello world</h2>
+              </div>
+              <div
+                className="col-md-6 col-sm-12 animate-box"
+                data-animate-effect="fadeInLeft"
+              >
+                <h2>My name is</h2>
               </div>
             </div>
           </div>
