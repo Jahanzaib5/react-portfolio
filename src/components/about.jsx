@@ -25,19 +25,6 @@ export default class About extends Component {
                       <p>It's been quite a time now that I have been building websites and trying to explore 
                           the area of web-development, and I find it quite interesting.
                       </p>
-                      <p>
-                        I am a computer grad student from DAIICT-Gandhinagar
-                        with ICT as my major.I love exploring new technologies
-                        and often amazed by the progress we as a human species
-                        have mad so far in the recent years (apart from the
-                        headphone-jack part!!)
-                      </p>
-                      <p>
-                        I have started reflecting my ideas and thougths through
-                        the medium of words recently so spelling and grammer
-                        mistaks are very often.You can write me back if you spot
-                        any and don't want to live anymore :P{" "}
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -63,7 +50,7 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                   </span>
                   <div className="desc">
-                    <h3>Web Development </h3>
+                    <h3>Web-Development </h3>
                     <p>
                       I have being building websites and application using HTML,
                       CSS, Bootstrap, Javascript, PHP, reactjs and so on.
@@ -93,7 +80,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Other skills</h3>
                     <p>
-                      I have a command over some of the languaes such as; 
+                      I have a command over some of the languages such as; 
                       Pyhon, c-programming, postgreSQL, PostMan, graphql .etc.
                     </p>
                   </div>
