@@ -65,8 +65,8 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Web Development </h3>
                     <p>
-                      I have experience building websites and chrome extentions
-                      using JavaScript,React,HTML,CSS
+                      I have being building websites and application using HTML,
+                      CSS, Bootstrap, Javascript, PHP, reactjs and so on.
                     </p>
                   </div>
                 </div>
@@ -77,10 +77,10 @@ export default class About extends Component {
                     <i className="icon-wordpress" />
                   </span>
                   <div className="desc">
-                    <h3>Data Structures & Algorithms</h3>
+                    <h3>Wordpress</h3>
                     <p>
-                      As coming from the CS background, I have good grasp over
-                      fundamental concepts of DSA
+                      I can create responsive websites equipped with 
+                      e-commerce applicaiton in Wordpress, quite efficiently.
                     </p>
                   </div>
                 </div>
@@ -91,10 +91,10 @@ export default class About extends Component {
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>Dev Ops</h3>
+                    <h3>Other skills</h3>
                     <p>
-                      I am pursuing my internship with DevOps team at Juniper
-                      and working with tools like Jenkins, Docker, K8s
+                      I have a command over some of the languaes such as; 
+                      Pyhon, c-programming, postgreSQL, PostMan, graphql .etc.
                     </p>
                   </div>
                 </div>
