@@ -23,6 +23,8 @@ export default class Contact extends Component {
               >
                 <p>Feel free to contact me as per the details below:</p>
                 <br/>
+                <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Emails:</b></h4>
+                <p>-<a>jahanzaib.kd@gmail.com</a></p>
                 
               </div>
               <div 
