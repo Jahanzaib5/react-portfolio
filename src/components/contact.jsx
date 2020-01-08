@@ -42,7 +42,7 @@ export default class Contact extends Component {
               </div>
             </div>
           </div>
-          <div className="row" style={{marginBottom: "2%"}}>
+          <div className="row" style={{marginBottom: "1%"}}>
             <div className="col-md-12 animate-box">
               <p>
                 <a href="#" className="btn btn-primary btn-lg btn-load-more">
