@@ -21,12 +21,13 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergradute student at UCA, Naryn Campus <span>2016-2021(expectd)</span></h2>
-                        <p>I am a junior year student at University of Central Asia, majoring in Computer Science.
-                          We have been following the syllabus and courses designed by the University of Toroto for us,
-                          which complies with the modern world requirements. The courses are desinged in way that we are not
-                          just learning new things, but also trying to imply that knowledge to our daily life activities.
-                        </p>
+                      <h2>Internship at uExel, Islamabad, Pakistan <span>may-2019-july-2019</span></h2>
+                        <p>uExel is one of the leading websites and application development company based in Pakistan.
+                           The services provided by uExel includes website designing, formation 
+                          of digital identity, print and media campaigns, marketing and so on. 
+                          Over the course of my internship term, I practised HTML, CSS, JavaScript, Bootstrap, Reactjs, MySQL, postman,
+                           GraphQL, and so on. I complete centain tasks and assignments using the programming languages mentioned before.
+                          </p>
                       </div>
                     </div>
                   </article>
@@ -36,8 +37,12 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Uexel, Islamabad, Pakistan <span>may-2019-july-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                          <h2>Undergradute student at UCA, Naryn Campus <span>2016-2021(expectd)</span></h2>
+                        <p>I am a junior year student at University of Central Asia, majoring in Computer Science.
+                          We have been following the syllabus and courses designed by the University of Toroto for us,
+                          which complies with the modern world requirements. The courses are desinged in way that we are not
+                          just learning new things, but also trying to imply that knowledge to our daily life activities.
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -47,8 +52,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Primary and Higher Education <span>2004-2016</span></h2>
+                        <p>I did my primay education at Frontier Corps Public School based in Chitral(my home town), Pakistan.
+                          For higer Education, I moved to Aga Khan Higher Seconday School which is also based in Chitral. I studied
+                          pre-engineering in HSSC, and later decided to pursue CS as my career.
+                        </p>
                       </div>
                     </div>
                   </article>
