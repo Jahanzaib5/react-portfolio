@@ -17,52 +17,6 @@ export default class Contact extends Component {
               </div>
             </div>
             <div className="row">
-
-
-
-            <div className="col-md-5 text-center animate-box">
-                <div className="services color-3">
-                  <span className="icon">
-                    <i className="icon-mail" />
-                  </span>
-                  <div className="desc">
-                    <h3>Web-Development </h3>
-                    <p>
-                      I have being building websites and web applications using HTML,
-                      CSS, Bootstrap, Javascript, PHP, reactjs and so on.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="col-md-5 text-center animate-box">
-                <div className="services color-5">
-                  <span className="icon">
-                    <i className="icon-phone" />
-                  </span>
-                  <div className="desc">
-                    <h3>Web-Development </h3>
-                    <p>
-                      I have being building websites and web applications using HTML,
-                      CSS, Bootstrap, Javascript, PHP, reactjs and so on.
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-
-
-
-
-              
-              
-
-
-
-
-
-
-
               <div
                 className="col-md-6 col-sm-12 animate-box"
                 data-animate-effect="fadeInLeft"
