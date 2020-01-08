@@ -21,7 +21,7 @@ export default class Contact extends Component {
 
 
             <div className="col-md-5 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-3">
                   <span className="icon">
                     <i className="icon-mail" />
                   </span>
@@ -35,10 +35,10 @@ export default class Contact extends Component {
                 </div>
               </div>
 
-              <div className="col-md-6 text-center animate-box">
+              <div className="col-md-5 text-center animate-box">
                 <div className="services color-5">
                   <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-phone" />
                   </span>
                   <div className="desc">
                     <h3>Web-Development </h3>
