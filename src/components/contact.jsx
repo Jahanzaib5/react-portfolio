@@ -23,8 +23,15 @@ export default class Contact extends Component {
               >
                 <p>Feel free to contact me as per the details below:</p>
                 <br/>
-                <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Emails:</b></h4>
-                <p>-<a>jahanzaib.kd@gmail.com</a></p>
+                <h4 style={{marginBottom:'1%'}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Email</b></h4>
+                <p>- <a>jahanzaib.kd@gmail.com</a></p>
+                <h4 style={{marginBottom:'1%'}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> WhatsApp</b></h4>
+                <p>- <a>(+996) 777 438 660</a></p>
+                <h4 style={{marginBottom:'1%'}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Skype</b></h4>
+                <p>- <a>jahanzaib danish</a></p>
+                <h4 style={{marginBottom:'1%'}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Current Address</b></h4>
+                <p>- <a>310 Lenin St, Naryn 722918, Kyrgyz Republic</a></p>
+
                 
               </div>
               <div 
