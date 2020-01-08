@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import pic from '../images/contact.png';
 
 export default class Contact extends Component {
   render() {
@@ -29,11 +30,11 @@ export default class Contact extends Component {
                 <h2>Hello world</h2>
                 <h2>Hello world</h2>
               </div>
-              <div
+              <div 
                 className="col-md-6 col-sm-12 animate-box"
-                data-animate-effect="fadeInLeft"
+                data-animate-effect="fadeInRight"
               >
-                <h2>My name is</h2>
+                <img src={pic}/>
               </div>
             </div>
           </div>
