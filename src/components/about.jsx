@@ -24,7 +24,7 @@ export default class About extends Component {
                       </p>
                       <p>It's been quite a time now that I have been building websites and trying to explore 
                           the area of web-development, and I find it quite interesting. I have also used WordPress
-                          and similiar sites to create responsive websites compatible with every device. 
+                          and similiar sites to create responsive websites, compatible with every device. 
                       </p>
                     </div>
                   </div>
