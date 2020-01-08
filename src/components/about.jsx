@@ -52,7 +52,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Web-Development </h3>
                     <p>
-                      I have being building websites and application using HTML,
+                      I have being building websites and web application using HTML,
                       CSS, Bootstrap, Javascript, PHP, reactjs and so on.
                     </p>
                   </div>
