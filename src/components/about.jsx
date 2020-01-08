@@ -80,7 +80,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Other skills</h3>
                     <p>
-                      I have a command over some of the languages such as; 
+                      I have a command over some other languages such as; 
                       Pyhon, c-programming, postgreSQL, Postman, graphql .etc.
                     </p>
                   </div>
